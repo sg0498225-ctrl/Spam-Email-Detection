@@ -1,0 +1,16 @@
+spam-email-detection-gui/
+│
+├── dataset/
+│   └── spam.csv
+│
+├── model/
+│   ├── spam_model.pkl
+│   └── vectorizer.pkl
+│
+├── src/
+│   ├── train_model.py
+│   └── gui_app.py
+│
+├── README.md
+├── project_report.md
+└── requirements.txt
